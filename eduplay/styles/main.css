@@ -1,0 +1,88 @@
+.header-title {
+  color: #414141;
+  font-family: Nunito, sans-serif;
+  font-size: 75px;
+  text-align: center;
+}
+
+.information {
+  font-family: Playfair Display, sans-serif;
+  text-align: center;
+  max-width: 500px;
+  margin: auto;
+}
+
+.info-text {
+  text-align: justify;
+  font-family: Playfair Display, sans-serif;
+}
+
+body {
+  background-color: #bae1ff;
+  margin: 0;
+}
+
+html {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+ul {
+  font-family: Playfair Display, sans-serif;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 19.5%;
+  margin-right: 0.625%;
+  text-align: center;
+  line-height: 3;
+  color: black;
+}
+
+li:last-child a {
+  margin-right: 0;
+}
+
+a:link, a:visited, a:focus {
+  background-color: #b2cefe;
+}
+
+a:hover {
+  background-color: #1b85b8;
+}
+
+a:active {
+  background-color: blue;
+  color: white;
+}
+
+.question-site {
+  background-color: #b2cefe;
+  color: #414141;
+  font-family: Playfair Display, sans-serif;
+  font-size: 35px;
+  text-align: center;
+  max-width: 500px;
+  margin: auto;
+}
+
+.try-again {
+  background-color: #FF6961;
+  color: #414141;
+  font-family: Playfair Display, sans-serif;
+  font-size: 35px;
+  text-align: center;
+  max-width: 500px;
+  margin: auto;
+}
+/*# sourceMappingURL=main.css.map */
